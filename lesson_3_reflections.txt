@@ -26,9 +26,15 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Maybe use something like a shared dropbox folder. But the changes would
+    over-write eachother since there can't be difference branches, so that would
+    be harder. You wouldn't have to learn how to use Git and Github though, so
+    that would be easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Experimental changes that you want feedback on, or really any time you're
+    collaborating and want feedback from your partners before updating the main
+    branch, master. Directly updating master is easier, there is much less
+    hassle involed, but you loose a bit of that collaboration.
